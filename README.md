@@ -19,7 +19,8 @@ Columns:
 CUS_ID INT PK
 CUS_NAME VARCHAR(20)
 NOT NULL
-CUS_PHONE VARCHAR(10)
+CUS_PHONE VARCHAR(10)[Graded Project Questions.pdf](https://github.com/pranay260402/Pranay_DBMS/files/14632659/Graded.Project.Questions.pdf)
+
 NOT NULL
 CUS_CITY VARCHAR(30)
 NOT NULL
